@@ -42,7 +42,7 @@ dependencies:
 - case-insensitive
 - wai
 - http-types
-- storable
+- foreign-store
 
 # The library contains all of our application code. The executable
 # defined below is just a thin wrapper.
